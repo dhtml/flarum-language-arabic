@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "extra": {
     "flarum-extension": {
-      "title": "earabiun",
+      "title": "Arabic",
       "category": "language",
       "info": {
         "website": "https://github.com/dhtml",
