@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "extra": {
     "flarum-extension": {
-      "title": "Arabic",
+      "title": "Arabic (العربية)",
       "category": "language",
       "info": {
         "website": "https://github.com/dhtml",
